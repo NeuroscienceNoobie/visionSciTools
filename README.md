@@ -8,8 +8,9 @@
    1. tick the options that you need
       - Convert to Grayscale: Tick this if you want to convert images into grayscale. (which is required for the OG SHINE toolbox)
       - Process Subfolders: Tick this if you want to process ALL images (in the nested subfolders) under the current directory.
-   3. Desired File Type: Specify what file type should the tool to look for.  
-   4. press "Proceed!!"
-   5. You will be promped to provide the directory of the input folders. Navigate to the folder containing the image(s) to be processed(INPUT_folder).
-   6. After confirming the input files, you will now need to select where to store the out files, navigate to the desired directory.
-   7. Done! 
+   3. Desired File Type: Specify what file type should the tool to look for.
+   4. Resolution: Choose whatever option that you want, just note that by choosing the non aspect ratio retaining options (e.g., 128*128), the images may be stratched/ forced into the  specified resulution.
+   5. press "Proceed!!"
+   6. You will be promped to provide the directory of the input folders. Navigate to the folder containing the image(s) to be processed(INPUT_folder).
+   7. After confirming the input files, you will now need to select where to store the out files, navigate to the desired directory.
+   8. Done! 
