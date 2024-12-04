@@ -1,7 +1,7 @@
-1. ImageScramble: Can be used to create a scrambled counterpart of any image. It achieve the goal by randomly re-arrange location of the pixels. 
+# ImageScramble: Can be used to create a scrambled counterpart of any image. It achieve the goal by randomly re-arrange location of the pixels. 
 
 # SHINE_Pre_Processing_Tool
-It was created to meet the requirements for using the legendary SHINE toolbox, in which required the images to be ***grayscale images of the same size***.
+It was created to meet the requirements for using the legendary OG SHINE toolbox, in which required the images to be ***grayscale images of the same size***.
    The present tool was tailered to meet both of the afromentioned requirements, along with the ability to scale(resize) and modify file type.  
    
    ## How to use the SHINE_Pre_Processing_Tool:
